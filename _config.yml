@@ -21,9 +21,9 @@ repository               : "chenjiayan-qhu/chenjiayan-qhu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myphoto.jpg"
-  name             : "Jiayan Chen"
-  pronouns         : # example: "she/her"  
+  avatar           : "myphoto.png"
+  name             : "Jiayan Chen（陈嘉言）"
+  pronouns         : her # example: "she/her"  
   bio              : "Second-year master student at School of Computer Technology and Applications, Qinghai University"
   location         : "Xining, China"
   employer         : "Qinghai University"
@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0001-3635-6311"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
