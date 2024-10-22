@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "myphoto.png"
   name             : "Jiayan Chen（陈嘉言）"
-  pronouns         : her # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Second-year master student at School of Computer Technology and Applications, Qinghai University"
   location         : "Xining, China"
   employer         : "Qinghai University"
