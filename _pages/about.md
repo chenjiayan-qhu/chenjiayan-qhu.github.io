@@ -14,4 +14,4 @@ supervised by Prof. [Jianqiang Huang(黄建强)](https://www.qhu-hdacp.cn/hjq.ht
 
 ### 📄 Academic achievements 
 
-I am currently in the learning phase and will update my academic achievements in the future. Looking forward to…
+I am currently in the learning phase and will update my academic achievements in the future. Looking forward to it…
