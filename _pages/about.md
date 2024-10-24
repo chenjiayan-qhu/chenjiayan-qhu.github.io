@@ -16,4 +16,4 @@ I am currently in the learning phase and will update my academic achievements in
 
 ### 🏆 Certificate
 
-- 2021.06 Outstanding Graduate of Hebei Province.
+- _2021.06_ Outstanding Graduate of Hebei Province.
