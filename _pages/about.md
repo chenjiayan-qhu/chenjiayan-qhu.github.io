@@ -12,7 +12,7 @@ I'm a second year Master’s student from [School of CTA](https://cs.qhu.edu.cn/
 
 ### 📄 Academic achievements 
 
-I am currently in the learning phase and will update my academic achievements in the future. Looking forward to it…
+👋Hi, I am currently in the learning phase and will update my academic achievements in the future. Looking forward to it…
 
 ### 🏆 Certificate
 
