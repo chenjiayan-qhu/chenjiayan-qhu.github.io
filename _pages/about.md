@@ -17,4 +17,4 @@ I am currently in the learning phase and will update my academic achievements in
 ### 🏆 Certificate
 
 - _2021.06_ Outstanding Graduate of Hebei Province.
-- _2019.11_ National Encouragement Scholarship.
+- _2019.11_ National Scholarship.
