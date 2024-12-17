@@ -12,7 +12,8 @@ redirect_from:
 
 ### 📄 Publications
 
-I am currently in the learning phase and will update my academic achievements in the future. Looking forward to it…
+##### 2024
+[HES-UNet: A U-Net for Hepatic Echinococcosis Lesion Segmentation](https://arxiv.org/abs/2412.06530) **Jiayan Chen**, Kai Li, Zhanjin Wang, Zhan Wang, Jianqiang Huang. Arxiv 2024.
 
 ### 🏆 Certificate
 
