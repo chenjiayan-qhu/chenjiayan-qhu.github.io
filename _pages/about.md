@@ -10,12 +10,13 @@ redirect_from:
 
 👋Hi, I'm a second year Master’s student from [School of CTA](https://cs.qhu.edu.cn/), [Qinghai University](https://www.qhu.edu.cn/). My research interest includes Computer Vision, Medical image segmentation, Hepatic Echinococcosis. I supervised by Prof. [Jianqiang Huang(黄建强)](https://www.qhu-hdacp.cn/hjq.html) and Prof. [Zhan Wang(王展)](https://www.qhuah.com/html/2748691352.html)
 
-# 📄 Publications
+### 📄 Publications
 
 ### 2024
+***
 - [HES-UNet: A U-Net for Hepatic Echinococcosis Lesion Segmentation.](https://arxiv.org/abs/2412.06530) **Jiayan Chen**, Kai Li, Zhanjin Wang, Zhan Wang, Jianqiang Huang. Arxiv 2024.
 
-# 🏆 Certificate
+### 🏆 Certificate
 
 - _2021.06_ Outstanding Graduate of Hebei Province.
 - _2019.11_ National Scholarship.
