@@ -18,5 +18,6 @@ redirect_from:
 ### 🏆 Certificate
 ***
 
+- _2024.11_ Graduate Study Scholarship
 - _2021.06_ Outstanding Graduate of Hebei Province.
 - _2019.11_ National Scholarship.
