@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Jiayan Chen (陈嘉言)"
-author_profile: true
+author_profile: False
 redirect_from: 
   - /about/
   - /about.html
