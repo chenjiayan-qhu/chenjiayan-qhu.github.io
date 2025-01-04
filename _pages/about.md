@@ -13,7 +13,7 @@ redirect_from:
 ### 📄 Publications
 ***
 
-- [HES-UNet: A U-Net for Hepatic Echinococcosis Lesion Segmentation.](https://arxiv.org/abs/2412.06530) **Jiayan Chen**, Kai Li, Zhanjin Wang, Zhan Wang, Jianqiang Huang<sup>#</sup>. Arxiv 2024. | [![Demo page Badge](https://img.shields.io/badge/Demo%20page-Online-brightgreen)](https://chenjiayan-qhu.github.io/HES-UNet-page/) | ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchenjiayan-qhu%2FHES-UNet-page&title=Hits&edge_flat=false)
+- [HES-UNet: A U-Net for Hepatic Echinococcosis Lesion Segmentation.](https://arxiv.org/abs/2412.06530) **Jiayan Chen**, Kai Li, Zhanjin Wang, Zhan Wang, Jianqiang Huang<sup>#</sup>. Arxiv 2024. | [![Demo page Badge](https://img.shields.io/badge/Demo%20page-Online-brightgreen)](https://chenjiayan-qhu.github.io/HES-UNet-page/) | ![Code starts](https://img.shields.io/badge/Code%20starts-2%2F2-brightgreen?logo=github&logoColor=white)
 ### 🏆 Certificate
 ***
 
