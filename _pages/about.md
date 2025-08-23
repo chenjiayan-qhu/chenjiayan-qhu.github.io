@@ -14,7 +14,7 @@ redirect_from:
 
 - [HES-UNet: A U-Net for Hepatic Echinococcosis Lesion Segmentation.](https://arxiv.org/abs/2412.06530) **Jiayan Chen**, Kai Li, Zhanjin Wang, Zhan Wang, Jianqiang Huang<sup>#</sup>. Arxiv 2024.  [![Demo page Badge](https://img.shields.io/badge/Demo%20page-Online-brightgreen)](https://chenjiayan-qhu.github.io/HES-UNet-page/)  [![Code](https://img.shields.io/badge/Code-gray?logo=github&logoColor=white)](https://github.com/chenjiayan-qhu/HES-UNet-page)
 
-- [EAGLE: An Efficient Global Attention Lesion Segmentation Model for Hepatic Echinococcosis](https://arxiv.org/abs/2506.20333) **Jiayan Chen**, Kai Li, Yulu Zhao, Jianqiang Huang, Zhan Wang<sup>#</sup>. Arxiv 2025.  [![Demo page Badge](https://img.shields.io/badge/Demo%20page-Online-brightgreen)](https://chenjiayan-qhu.github.io/EAGLE/)  [![Code](https://img.shields.io/badge/Code-gray?logo=github&logoColor=white)](https://github.com/chenjiayan-qhu/EAGLE)
+- [EAGLE: An Efficient Global Attention Lesion Segmentation Model for Hepatic Echinococcosis](https://arxiv.org/abs/2506.20333) **Jiayan Chen**, Kai Li, Yulu Zhao, Jianqiang Huang, Zhan Wang<sup>#</sup>. PRCV 2025.  [![Demo page Badge](https://img.shields.io/badge/Demo%20page-Online-brightgreen)](https://chenjiayan-qhu.github.io/EAGLE/)  [![Code](https://img.shields.io/badge/Code-gray?logo=github&logoColor=white)](https://github.com/chenjiayan-qhu/EAGLE)
 
 
 ### 🏆 Certificate
